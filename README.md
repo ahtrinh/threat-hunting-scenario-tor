@@ -156,5 +156,4 @@ The user employee downloaded and executed the Tor Browser portable installer on 
 
 ## Response Taken
 
-**TOR usage was confirmed on endpoint alex-mde-test by the user. The device was isolated and the user's direct manager was notified.
-**---
+TOR usage was confirmed on endpoint alex-mde-test by the user. The device was isolated and the user's direct manager was notified.

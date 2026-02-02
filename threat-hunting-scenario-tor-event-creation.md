@@ -76,5 +76,4 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Alex Trinh
-- **Author Contact**: http://www.linkedin.com/in/alexhtrinh
 - **Date**: January 31, 2026
